@@ -14,3 +14,7 @@
 
 [3. Машина состояний](https://www.youtube.com/watch?v=O_pPNlXMzsw&list=PLwVBSkoL97Q3phZRyInbM4lShvS1cBl-U&index=8)
 
+### postgre-docker-bot
+
+[4. БАЗА ДАННЫХ, ДОКЕР, БАЛАНСЫ И РЕФЕРАЛЫ](https://www.youtube.com/watch?v=_rfSEBa8Ff0&list=PLwVBSkoL97Q3phZRyInbM4lShvS1cBl-U&index=9)
+
