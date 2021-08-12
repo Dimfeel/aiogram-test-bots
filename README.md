@@ -18,3 +18,5 @@
 
 [4. БАЗА ДАННЫХ, ДОКЕР, БАЛАНСЫ И РЕФЕРАЛЫ](https://www.youtube.com/watch?v=_rfSEBa8Ff0&list=PLwVBSkoL97Q3phZRyInbM4lShvS1cBl-U&index=9)
 
+[5. Бесплатный сервер, деплой, запуск бота 1 командой](https://www.youtube.com/watch?v=E4sxVbQDAlY&list=PLwVBSkoL97Q3phZRyInbM4lShvS1cBl-U&index=10)
+

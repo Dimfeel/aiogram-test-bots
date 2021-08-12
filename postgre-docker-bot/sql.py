@@ -15,7 +15,10 @@ async def create_db():
     conn: asyncpg.Connection = await asyncpg.connect(user=PG_USER,
                                                      password=PG_PASS,
                                                      host=host)
-    await conn.execute(create_db_command)
+    try:
+        await conn.execute(create_db_command)
+    except asyncpg.exceptions.DuplicateTableError:
+        pass
     await conn.close()
     logging.info("Table users created")
 
